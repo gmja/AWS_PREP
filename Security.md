@@ -19,3 +19,11 @@ dig command will tell if resource is in my VPC or not
 ![](https://user-images.githubusercontent.com/26511983/70866999-e1c91180-1f35-11ea-9116-12045e27f6a7.png)
 
 ![](https://user-images.githubusercontent.com/26511983/70867004-058c5780-1f36-11ea-95d1-7efec33f535a.png)
+
+![](https://user-images.githubusercontent.com/26511983/70867024-366c8c80-1f36-11ea-8025-fe26e6810a86.png)
+
+![](https://user-images.githubusercontent.com/26511983/70867038-6ae04880-1f36-11ea-9542-67faf1913817.png)
+
+![](https://user-images.githubusercontent.com/26511983/70867048-88151700-1f36-11ea-96b0-e1f18b89ea71.png)
+
+![](https://user-images.githubusercontent.com/26511983/70867060-9ebb6e00-1f36-11ea-8626-07c8446b35d3.png)
