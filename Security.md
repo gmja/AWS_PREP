@@ -41,3 +41,4 @@ Every subnet is associated exactly with one Route Table
 
 ![](https://user-images.githubusercontent.com/26511983/70867319-cbbd5000-1f39-11ea-9e76-eb68883be581.png)
 
+![](https://user-images.githubusercontent.com/26511983/70867343-1212af00-1f3a-11ea-94cc-ed3edc91b406.png)
