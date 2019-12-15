@@ -11,3 +11,7 @@ Up To 5 Indexes
 ![](https://user-images.githubusercontent.com/26511983/70857122-b0593300-1eae-11ea-9d3b-88d64f1db97c.png)
 
 ![](https://user-images.githubusercontent.com/26511983/70857151-1b0a6e80-1eaf-11ea-8b30-242d165f2e8c.png)
+
+Cache Accelerator 
+
+![](https://user-images.githubusercontent.com/26511983/70857165-3c6b5a80-1eaf-11ea-8dd1-177c13bd9e1c.png)
