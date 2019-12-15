@@ -27,3 +27,7 @@ dig command will tell if resource is in my VPC or not
 ![](https://user-images.githubusercontent.com/26511983/70867048-88151700-1f36-11ea-96b0-e1f18b89ea71.png)
 
 ![](https://user-images.githubusercontent.com/26511983/70867060-9ebb6e00-1f36-11ea-8626-07c8446b35d3.png)
+
+Every subnet is associated exactly with one Route Table
+
+![](https://user-images.githubusercontent.com/26511983/70867110-39b44800-1f37-11ea-96be-44797c7da864.png)
