@@ -17,3 +17,5 @@
 dig command will tell if resource is in my VPC or not
 
 ![](https://user-images.githubusercontent.com/26511983/70866999-e1c91180-1f35-11ea-9116-12045e27f6a7.png)
+
+![](https://user-images.githubusercontent.com/26511983/70867004-058c5780-1f36-11ea-95d1-7efec33f535a.png)
