@@ -26,3 +26,15 @@
 ### There is a one-to-one relationship between private IPv4 addresses and Elastic IP addresses. Your instance will receive traffic destined to the private address mapping for your Elastic IP address.
 ### You can map Elastic IP addresses from one private IPv4 address to another, either in the same VPC or a different VPC, within the same region and account.
 ### Elastic IP addresses remain associated with your AWS account until you explicitly release them.You are not charged for the first Elastic IP address assigned to an instance, provided that the instance is running. Additional Elastic IP addresses per instance and Elastic IP addresses not associated with a running instance incur a small hourly charge.
+
+## Here are the important points to understand about security groups for the exam: You can create up to 500 security groups for each VPC.
+You can add up to 50 inbound and 50 outbound rules to each security group. You can associate up to five security groups with each network interface.
+  
+You can specify allow rules but not deny rules. This is an important difference between security groups and network ACLs.
+You can specify separate rules for inbound and outbound traffic.
+
+By default, no inbound traffic is allowed until you add inbound rules to the security group.
+
+By default, new security groups have an outbound rule that allows all outbound traffic. You can remove the rule and add outbound rules that allow specific outbound traffic only.
+
+Security groups are stateful. This means that responses to allowed inbound traffic are allowed to flow outbound regardless of outbound rules and vice versa. This is an important difference between security groups and network ACLs.
