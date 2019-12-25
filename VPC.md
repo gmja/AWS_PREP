@@ -11,3 +11,8 @@
 ![](https://user-images.githubusercontent.com/26511983/71449169-370edb00-270d-11ea-97df-c1cfd2bfc8e9.png)
 
 ![](https://user-images.githubusercontent.com/26511983/71449176-645b8900-270d-11ea-82c4-c98734360e7e.png)
+
+![](https://user-images.githubusercontent.com/26511983/71449220-2b6fe400-270e-11ea-890d-981800df4a01.png)
+
+#
+#The initially-assigned IPv4 address range of the VPC cannot be changed after the VPC is created. A VPC IPv4 address range may be as large as /16 (65,536 addresses) or as small as /28 (16 addresses), and it should not overlap any other net- work to which the VPC is to be connected.
