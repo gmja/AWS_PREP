@@ -58,3 +58,6 @@
 ## Elastic Network Interfaces
 ![](https://user-images.githubusercontent.com/26511983/71450821-28d1b680-272f-11ea-9358-d4604bc6554b.png)
 
+# VPC Flow Logs provide a periodic view of network flow information. Log data is pushed to Amazon CloudWatch Logs approximately every 10 minutes. VPC Flow Logs are useful for understanding network traffic, including anomaly detection and troubleshooting.
+
+
