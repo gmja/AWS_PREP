@@ -51,5 +51,10 @@
 ![](https://user-images.githubusercontent.com/26511983/71450803-dd1f0d00-272e-11ea-88eb-ca723114ac88.png)
 
 
+## Placement Groups
 
+![](https://user-images.githubusercontent.com/26511983/71450811-00e25300-272f-11ea-969f-4d0db74cc47a.png)
+
+## Elastic Network Interfaces
+![](https://user-images.githubusercontent.com/26511983/71450821-28d1b680-272f-11ea-9358-d4604bc6554b.png)
 
