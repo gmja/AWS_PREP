@@ -28,16 +28,18 @@
 ### Elastic IP addresses remain associated with your AWS account until you explicitly release them.You are not charged for the first Elastic IP address assigned to an instance, provided that the instance is running. Additional Elastic IP addresses per instance and Elastic IP addresses not associated with a running instance incur a small hourly charge.
 
 ## Here are the important points to understand about security groups for the exam: You can create up to 500 security groups for each VPC.
-# 
-
-You can add up to 50 inbound and 50 outbound rules to each security group. You can associate up to five security groups with each network interface.
+#### You can add up to 50 inbound and 50 outbound rules to each security group. You can associate up to five security groups with each network interface.
   
-You can specify allow rules but not deny rules. This is an important difference between security groups and network ACLs.
+#### You can specify allow rules but not deny rules. This is an important difference between security groups and network ACLs.
 You can specify separate rules for inbound and outbound traffic.
 
-By default, no inbound traffic is allowed until you add inbound rules to the security group.
+#### By default, no inbound traffic is allowed until you add inbound rules to the security group.
 
-By default, new security groups have an outbound rule that allows all outbound traffic. You can remove the rule and add outbound rules that allow specific outbound traffic only.
+#### By default, new security groups have an outbound rule that allows all outbound traffic. You can remove the rule and add outbound rules that allow specific outbound traffic only.
 
-Security groups are stateful. This means that responses to allowed inbound traffic are allowed to flow outbound regardless of outbound rules and vice versa. This is an important difference between security groups and network ACLs.
+#### Security groups are stateful. This means that responses to allowed inbound traffic are allowed to flow outbound regardless of outbound rules and vice versa. This is an important difference between security groups and network ACLs.
+
+#### Instances associated with the same security group cannot communicate with each other unless you add rules to the security group allowing the security group to communicate within itself.
+
+#### You can change which security groups an instance is associated with after launch, and the changes will take effect in seconds.
 # 
