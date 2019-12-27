@@ -26,3 +26,11 @@
 ![](https://user-images.githubusercontent.com/26511983/71496510-48450e00-2819-11ea-9dce-a06e96d226c8.png)
 
 ![](https://user-images.githubusercontent.com/26511983/71496722-5a737c00-281a-11ea-8664-d189dcf3afd9.png)
+
+# Dedicated Instance vs Dedicated Host
+
+## Start/Stop Dedicated Instance , Host may change(H-107) whereas Dedicated Host Host will remian same(H-101) 
+## Hardware bound licences - Dedicated Host
+## Cost is high for Dedicated Host
+
+![](https://user-images.githubusercontent.com/26511983/71526820-29d52600-289e-11ea-9ec5-d824b3de9639.png)
