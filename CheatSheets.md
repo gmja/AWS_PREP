@@ -35,3 +35,11 @@
 ### An application you want to run on EC2 requires you to license it based on the number of physical CPU sockets and cores on the hardware you plan to run the application on. Which of the following tenancy models should you specify?
 
 ![](https://user-images.githubusercontent.com/26511983/71526820-29d52600-289e-11ea-9ec5-d824b3de9639.png)
+
+# CloudWatch
+
+![](https://user-images.githubusercontent.com/26511983/71527281-55591000-28a0-11ea-8b1f-aa49c11ccfa0.png)
+
+![](https://user-images.githubusercontent.com/26511983/71527335-90f3da00-28a0-11ea-95e8-4697f443388a.png)
+
+
