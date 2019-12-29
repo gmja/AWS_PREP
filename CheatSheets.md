@@ -69,3 +69,13 @@
 ![](https://user-images.githubusercontent.com/26511983/71560650-9123df00-2a32-11ea-978e-aa221d027b7d.png)
 
 ![](https://user-images.githubusercontent.com/26511983/71560750-84ec5180-2a33-11ea-995c-7c5854bba7ba.png)
+
+
+# Copy Volumes to instance in a different AZ
+
+## Attach a Volume to EC2-1 in AZ-1
+## Mount the volume and write a new file
+## Take a snapshot of Volume
+## Create new volume from snapshot in AZ-2
+## Attach the volume to EC2-2 in AZ-2
+## Mount and see content of new file 
