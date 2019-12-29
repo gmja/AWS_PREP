@@ -75,6 +75,9 @@
 
 ## Attach a Volume to EC2-1 in AZ-1
 ## Mount the volume and write a new file
+### lsblk - to see partitions 
+### mount /dev/sda2 /mnt/mydisk
+### umount /dev/sda2  
 ## Take a snapshot of Volume
 ## Create new volume from snapshot in AZ-2
 ## Attach the volume to EC2-2 in AZ-2
