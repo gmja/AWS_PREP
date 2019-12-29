@@ -86,3 +86,6 @@
 ![](https://user-images.githubusercontent.com/26511983/71563402-529f1c00-2a54-11ea-9e2a-00948ed5a0e7.png)
 
 ![](https://user-images.githubusercontent.com/26511983/71563426-e83aab80-2a54-11ea-8f9b-ff1ae8d60cea.png)
+
+## Snapshot is just a Backup of Volume or Instance
+![](https://user-images.githubusercontent.com/26511983/71563442-289a2980-2a55-11ea-8983-db0988d6b9b1.png)
