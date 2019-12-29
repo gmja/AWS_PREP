@@ -89,3 +89,11 @@
 
 ## Snapshot is just a Backup of Volume or Instance
 ![](https://user-images.githubusercontent.com/26511983/71563442-289a2980-2a55-11ea-8983-db0988d6b9b1.png)
+
+
+## HA across Regions using Route 53
+
+![](https://user-images.githubusercontent.com/26511983/71563743-24243f80-2a5a-11ea-998e-6f2027a3433a.png)
+
+![](https://user-images.githubusercontent.com/26511983/71563764-651c5400-2a5a-11ea-87af-41babaff2110.png)
+
