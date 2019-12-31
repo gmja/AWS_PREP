@@ -132,4 +132,4 @@
 ![](https://user-images.githubusercontent.com/26511983/71631026-ff4fd980-2bcb-11ea-94a8-2f6a5a4d55b6.png)
 
 ## Add NAT Insatcne to the Private subnet Route Table
-![[](https://user-images.githubusercontent.com/26511983/71631085-535abe00-2bcc-11ea-8eaf-1448aa7dddf5.png)
+![](https://user-images.githubusercontent.com/26511983/71631085-535abe00-2bcc-11ea-8eaf-1448aa7dddf5.png)
