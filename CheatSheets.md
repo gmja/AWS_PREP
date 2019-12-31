@@ -112,4 +112,5 @@
 ### When you delete your NAT gateway, remember to also delete the elastic IP it used.
 ![](https://user-images.githubusercontent.com/26511983/71630055-9e71d280-2bc6-11ea-8a80-a4be9490365b.png)
 
-
+### Add route to the The NAT gateway in the private subnet route table
+![](https://user-images.githubusercontent.com/26511983/71630148-1f30ce80-2bc7-11ea-8cca-a2ef131a87e1.png)
