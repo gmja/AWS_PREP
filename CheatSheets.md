@@ -151,3 +151,7 @@
 
 ## Other subnet
 ![](https://user-images.githubusercontent.com/26511983/71635653-f0791f00-2beb-11ea-9c93-ae1f71d9a131.png)
+
+## VPC Peering is possible across regions and Accounts
+![](https://user-images.githubusercontent.com/26511983/71635721-9cbb0580-2bec-11ea-8e63-4479d3b208f7.png)
+
