@@ -124,7 +124,12 @@
 
 ![](https://user-images.githubusercontent.com/26511983/71630309-ddecee80-2bc7-11ea-8b69-790e81ec63d2.png)
 
-### For NAT to work, disable Source/Destination check
-## NAT does not accept Traffic and it just forwards traffic from one instacne to other
-## Destination Traffic is not really for NAT insatnce
+## For NAT to work, disable Source/Destination check
+### NAT does not accept Traffic and it just forwards traffic from one instacne to other
+### Destination Traffic is not really for NAT insatnce
 ![](https://user-images.githubusercontent.com/26511983/71630949-7b95ed00-2bcb-11ea-9d14-7018d6f70656.png)
+
+![](https://user-images.githubusercontent.com/26511983/71631026-ff4fd980-2bcb-11ea-94a8-2f6a5a4d55b6.png)
+
+## Add NAT Insatcne to the Private subnet Route Table
+![[](https://user-images.githubusercontent.com/26511983/71631085-535abe00-2bcc-11ea-8eaf-1448aa7dddf5.png)
