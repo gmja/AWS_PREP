@@ -116,9 +116,15 @@
 ![](https://user-images.githubusercontent.com/26511983/71630148-1f30ce80-2bc7-11ea-8cca-a2ef131a87e1.png)
 
 
-### Balck Hole - deleting NAT Gateway would cause this
+### Black Hole - deleting NAT Gateway would cause this
 ![](https://user-images.githubusercontent.com/26511983/71630247-923a4500-2bc7-11ea-8dc5-f8db35485879.png)
 
 
-## NAT Instance
+## NAT Instance select AMI of type -nat-
 
+![](https://user-images.githubusercontent.com/26511983/71630309-ddecee80-2bc7-11ea-8b69-790e81ec63d2.png)
+
+### For NAT to work, disable Source/Destination check
+## NAT does not accept Traffic and it just forwards traffic from one instacne to other
+## Destination Traffic is not really for NAT insatnce
+![](https://user-images.githubusercontent.com/26511983/71630949-7b95ed00-2bcb-11ea-9d14-7018d6f70656.png)
