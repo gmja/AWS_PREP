@@ -105,3 +105,11 @@
 
 
 ![](https://user-images.githubusercontent.com/26511983/71629359-ba737500-2bc2-11ea-94b7-d1a21075beb5.png)
+
+![](https://user-images.githubusercontent.com/26511983/71629917-aed57d80-2bc5-11ea-98ea-07ec1f581f4b.png)
+
+### The NAT gateway goes in the public subnet
+### When you delete your NAT gateway, remember to also delete the elastic IP it used.
+![](https://user-images.githubusercontent.com/26511983/71630055-9e71d280-2bc6-11ea-8a80-a4be9490365b.png)
+
+
