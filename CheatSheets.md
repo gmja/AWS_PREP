@@ -143,3 +143,11 @@
 
 ## Accept peering request
 ![](https://user-images.githubusercontent.com/26511983/71635532-2538a680-2beb-11ea-84ad-f29b0772c690.png)
+
+## Edit Route Table for both routes tables of the Subnets to add VPC peering connection
+![](https://user-images.githubusercontent.com/26511983/71635602-9bd5a400-2beb-11ea-8980-5b0315be07ad.png)
+
+![](https://user-images.githubusercontent.com/26511983/71635627-c58ecb00-2beb-11ea-8849-5ba9fda76b7d.png)
+
+## Other subnet
+![](https://user-images.githubusercontent.com/26511983/71635653-f0791f00-2beb-11ea-9c93-ae1f71d9a131.png)
