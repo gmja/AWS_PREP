@@ -114,3 +114,11 @@
 
 ### Add route to the The NAT gateway in the private subnet route table
 ![](https://user-images.githubusercontent.com/26511983/71630148-1f30ce80-2bc7-11ea-8cca-a2ef131a87e1.png)
+
+
+### Balck Hole - deleting NAT Gateway would cause this
+![](https://user-images.githubusercontent.com/26511983/71630247-923a4500-2bc7-11ea-8dc5-f8db35485879.png)
+
+
+## NAT Instance
+
