@@ -133,3 +133,9 @@
 
 ## Add NAT Insatcne to the Private subnet Route Table
 ![](https://user-images.githubusercontent.com/26511983/71631085-535abe00-2bcc-11ea-8eaf-1448aa7dddf5.png)
+
+
+## VPC Peering
+
+![](https://user-images.githubusercontent.com/26511983/71633551-67a5b780-2bda-11ea-8c18-09bd2cb074b1.png)
+
