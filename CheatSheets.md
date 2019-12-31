@@ -155,3 +155,17 @@
 ## VPC Peering is possible across regions and Accounts
 ![](https://user-images.githubusercontent.com/26511983/71635721-9cbb0580-2bec-11ea-8e63-4479d3b208f7.png)
 
+![](https://user-images.githubusercontent.com/26511983/71635743-f1f71700-2bec-11ea-98fe-78729fb4b0a3.png)
+
+![](https://user-images.githubusercontent.com/26511983/71635774-0cc98b80-2bed-11ea-9fa0-24522802d8e1.png)
+
+![](https://user-images.githubusercontent.com/26511983/71635786-2d91e100-2bed-11ea-9340-a552d3fa0e5e.png)
+
+## VPC peering will only allow to communicate between instances 
+## You can not route your traffic further thru Gateways/NAT instances/VPC endpoints
+
+![](https://user-images.githubusercontent.com/26511983/71635825-9da06700-2bed-11ea-8085-3d698db2db60.png)
+
+![](https://user-images.githubusercontent.com/26511983/71635850-e9531080-2bed-11ea-96c4-86c7606fa87c.png)
+
+![](https://user-images.githubusercontent.com/26511983/71635864-0d165680-2bee-11ea-9dc0-d999c0c1e41d.png)
