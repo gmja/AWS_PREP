@@ -139,3 +139,7 @@
 
 ![](https://user-images.githubusercontent.com/26511983/71633551-67a5b780-2bda-11ea-8c18-09bd2cb074b1.png)
 
+![](https://user-images.githubusercontent.com/26511983/71635502-d12dc200-2bea-11ea-8338-0634b4b0731c.png)
+
+## Accept peering request
+![](https://user-images.githubusercontent.com/26511983/71635532-2538a680-2beb-11ea-84ad-f29b0772c690.png)
