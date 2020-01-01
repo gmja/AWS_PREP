@@ -173,3 +173,12 @@
 ## VPC Endpoint
 
 ![](https://user-images.githubusercontent.com/26511983/71637540-0518df80-2c0b-11ea-87ca-17e74b5edf18.png)
+
+## ELB 
+
+![](https://user-images.githubusercontent.com/26511983/71637787-a0618300-2c12-11ea-9dab-f6540b1eb9ab.png)
+
+![](https://user-images.githubusercontent.com/26511983/71637901-1d422c00-2c16-11ea-9afa-31455804a2dc.png)
+
+## ELB With Suto scaling group
+
