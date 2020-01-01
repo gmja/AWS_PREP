@@ -169,3 +169,7 @@
 ![](https://user-images.githubusercontent.com/26511983/71635850-e9531080-2bed-11ea-96c4-86c7606fa87c.png)
 
 ![](https://user-images.githubusercontent.com/26511983/71635864-0d165680-2bee-11ea-9dc0-d999c0c1e41d.png)
+
+## VPC Endpoint
+
+![](https://user-images.githubusercontent.com/26511983/71637540-0518df80-2c0b-11ea-87ca-17e74b5edf18.png)
