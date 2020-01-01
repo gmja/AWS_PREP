@@ -182,9 +182,9 @@
 
 ![](https://user-images.githubusercontent.com/26511983/71637915-81fd8680-2c16-11ea-8453-7ca46ac68257.png)
 
-## ELB With Suto scaling group
+## ELB With Auto scaling group
 
 ![](https://user-images.githubusercontent.com/26511983/71637917-98a3dd80-2c16-11ea-8bfd-2527b624c6e3.png)
 
-
+![](https://user-images.githubusercontent.com/26511983/71637928-c4bf5e80-2c16-11ea-8b6a-fb80e4eb042c.png)
 
