@@ -11,3 +11,13 @@
 ![](https://user-images.githubusercontent.com/26511983/71772783-cf2f7000-2f16-11ea-98d5-f8a33f56f0f9.png)
 
 ![](https://user-images.githubusercontent.com/26511983/71772818-afe51280-2f17-11ea-9fc9-958ec110fcf2.png)
+
+
+## NAT Gateway needs EIP
+![](https://user-images.githubusercontent.com/26511983/71772849-3bf73a00-2f18-11ea-88c3-38b974e0df35.png)
+
+## You can change security groups on a running instance
+## Instance can have multiple security groups
+
+![](https://user-images.githubusercontent.com/26511983/71772889-09017600-2f19-11ea-96ec-be95f23bc903.png)
+
