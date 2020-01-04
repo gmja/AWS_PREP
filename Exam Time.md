@@ -9,3 +9,5 @@
 
 ## You can share a private image / snapshots  with another account or make it public
 ![](https://user-images.githubusercontent.com/26511983/71772783-cf2f7000-2f16-11ea-98d5-f8a33f56f0f9.png)
+
+![](https://user-images.githubusercontent.com/26511983/71772818-afe51280-2f17-11ea-9fc9-958ec110fcf2.png)
