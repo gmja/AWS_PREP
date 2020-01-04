@@ -22,3 +22,11 @@
 ![](https://user-images.githubusercontent.com/26511983/71772889-09017600-2f19-11ea-96ec-be95f23bc903.png)
 
 ![](https://user-images.githubusercontent.com/26511983/71772902-38b07e00-2f19-11ea-8530-70d7886c46b0.png)
+
+
+## Create ELB and attach two instances
+![](https://user-images.githubusercontent.com/26511983/71773030-8332fa00-2f1b-11ea-82dd-9e066f6472cf.png)
+
+## Route 53 with ELB
+
+![](https://user-images.githubusercontent.com/26511983/71773020-626aa480-2f1b-11ea-80c1-0112169ff97c.png)
