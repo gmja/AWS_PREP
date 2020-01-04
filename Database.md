@@ -42,3 +42,18 @@ https://www.youtube.com/watch?v=TJxC-B9Q9tQ
 
 ![](https://user-images.githubusercontent.com/26511983/71769704-f6237d00-2ee9-11ea-9578-014a12cae5c0.png)
 
+## Encryption
+
+![](https://user-images.githubusercontent.com/26511983/71769716-2539ee80-2eea-11ea-9df3-cceb96b294fa.png)
+
+## Monitoring
+
+![](https://user-images.githubusercontent.com/26511983/71769724-48649e00-2eea-11ea-8afa-f3d61bb88752.png)
+
+![](https://user-images.githubusercontent.com/26511983/71769736-7a760000-2eea-11ea-9e71-7aea3d37ff8a.png)
+
+![](https://user-images.githubusercontent.com/26511983/71769749-9b3e5580-2eea-11ea-93f9-382946896863.png)
+
+![](https://user-images.githubusercontent.com/26511983/71769767-c032c880-2eea-11ea-96f9-ab1b0fa773bf.png)
+
+![](https://user-images.githubusercontent.com/26511983/71769790-0556fa80-2eeb-11ea-8c24-8fa45c6c8276.png)
