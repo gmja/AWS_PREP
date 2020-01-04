@@ -27,5 +27,5 @@ https://www.youtube.com/watch?v=TJxC-B9Q9tQ
 ![](https://user-images.githubusercontent.com/26511983/71769530-4994cb80-2ee8-11ea-93ac-c23fdc39fadf.png)
 
 
-![](https://user-images.githubusercontent.com/26511983/71769573-aee8bc80-2ee8-11ea-89b5-3b0e4bd3b4bd.png)
+![](https://user-images.githubusercontent.com/26511983/71769589-ce7fe500-2ee8-11ea-8810-66c04a92c816.png)
 
