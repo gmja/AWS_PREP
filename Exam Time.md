@@ -55,4 +55,18 @@
 
 ![](https://user-images.githubusercontent.com/26511983/71785588-fc3b5b80-2fc6-11ea-8cc2-070bc448d0a0.png)
 
+## User Partition for Cassandra/Hadoop and Kafka
 ![](https://user-images.githubusercontent.com/26511983/71785608-27be4600-2fc7-11ea-819e-36a1ed3a07d9.png)
+
+## Cluster
+![](https://user-images.githubusercontent.com/26511983/71785650-a5825180-2fc7-11ea-88a4-037a5142a5ea.png)
+
+## Spread Restricted to 7 EC2 per AZ
+![](https://user-images.githubusercontent.com/26511983/71785651-b0d57d00-2fc7-11ea-8c5c-111e59f45fa1.png)
+
+## Partition Restricted to 7 Parttitions and each Parttition can host 100s of EC2
+
+![](https://user-images.githubusercontent.com/26511983/71785663-e67a6600-2fc7-11ea-9b5a-090fc4e46255.png)
+
+![](https://user-images.githubusercontent.com/26511983/71785687-20e40300-2fc8-11ea-96c2-36339ae11555.png)
+
