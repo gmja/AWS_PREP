@@ -30,3 +30,7 @@
 ## Route 53 with ELB
 
 ![](https://user-images.githubusercontent.com/26511983/71773020-626aa480-2f1b-11ea-80c1-0112169ff97c.png)
+
+## Extend Root volume Without Stopping the Windows Instance
+
+![](https://user-images.githubusercontent.com/26511983/71773943-cac18200-2f2b-11ea-9398-e5f7693d3afa.png)
