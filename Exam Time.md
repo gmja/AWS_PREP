@@ -34,3 +34,10 @@
 ## Extend Root volume Without Stopping the Windows Instance
 
 ![](https://user-images.githubusercontent.com/26511983/71773943-cac18200-2f2b-11ea-9398-e5f7693d3afa.png)
+
+
+## EC2
+
+![](https://user-images.githubusercontent.com/26511983/71784439-2e45c100-2fb9-11ea-8f53-5228c7dde8ce.png)
+
+![](https://user-images.githubusercontent.com/26511983/71784432-2423c280-2fb9-11ea-85b3-333ab5002d2c.png)
