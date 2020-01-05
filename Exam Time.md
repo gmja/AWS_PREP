@@ -70,3 +70,24 @@
 
 ![](https://user-images.githubusercontent.com/26511983/71785687-20e40300-2fc8-11ea-96c2-36339ae11555.png)
 
+![](https://user-images.githubusercontent.com/26511983/71785709-5f79bd80-2fc8-11ea-8432-39f5d42c97d6.png)
+
+![](https://user-images.githubusercontent.com/26511983/71785730-b7b0bf80-2fc8-11ea-880c-158eb968c7d9.png)
+
+![](https://user-images.githubusercontent.com/26511983/71785739-d4e58e00-2fc8-11ea-8dc6-e1c29c60a2b5.png)
+
+![](https://user-images.githubusercontent.com/26511983/71785795-7d93ed80-2fc9-11ea-84ad-db70805b7600.png)
+
+![](https://user-images.githubusercontent.com/26511983/71785805-b338d680-2fc9-11ea-8862-3ae64e3f5090.png)
+
+### The requested number of I/O operations per second that the volume can support. For Provisioned IOPS (SSD) volumes, you can provision up to 50 IOPS per GiB. For General Purpose (SSD) volumes, baseline performance is 3 IOPS per GiB, with a minimum of 100 IOPS and a maximum of 10000 IOPS. General Purpose (SSD) volumes under 1000 GiB can burst up to 3000 IOPS.
+
+## GP2
+![](https://user-images.githubusercontent.com/26511983/71785865-55f15500-2fca-11ea-923a-122e5cb07e23.png)
+
+## IO1
+![](https://user-images.githubusercontent.com/26511983/71785871-673a6180-2fca-11ea-90f4-2dbd62b8602b.png)
+
+## HDD IOPS n/A
+![](https://user-images.githubusercontent.com/26511983/71785894-95b83c80-2fca-11ea-831a-e414de9ff489.png)
+
