@@ -14,3 +14,18 @@ have nothing to do with the lifetime of an instance and have no effect here.
 ![](https://user-images.githubusercontent.com/26511983/71334732-fb092980-2504-11ea-82aa-308eb3dbbbac.png)
 
 ![](https://user-images.githubusercontent.com/26511983/71334758-183df800-2505-11ea-8bac-fbf0cc493ec3.png)
+
+### Answer : C
+![](https://user-images.githubusercontent.com/26511983/71786125-d49bc180-2fcd-11ea-8c55-4bc86a0c36ad.png)
+
+
+
+![](https://user-images.githubusercontent.com/26511983/71786138-090f7d80-2fce-11ea-9c5e-dd2afaa53562.png)
+
+## ANSWER
+
+![](https://user-images.githubusercontent.com/26511983/71786154-35c39500-2fce-11ea-9645-dacab5d9d887.png)
+
+## ANSWER B&C
+![](https://user-images.githubusercontent.com/26511983/71786219-a10d6700-2fce-11ea-8279-4bce98d9956e.png)
+
