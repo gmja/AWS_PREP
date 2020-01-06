@@ -12,6 +12,9 @@
 
 ## Elastic Beanstalk takes care of the ongoing underlying deployment details for you, allowing you to focus exclusively on your code.
 
+## EC2 Instance type can be changed after stopping instance
+![](https://user-images.githubusercontent.com/26511983/71789572-741e7b80-2ff1-11ea-8bbb-433fd58b418b.png)
+
 ![](https://user-images.githubusercontent.com/26511983/71770010-6da6db80-2eed-11ea-93b6-3426316b0e9c.png)
 
 ![](https://user-images.githubusercontent.com/26511983/71772511-c5573e00-2f11-11ea-8522-cac79951048e.png)
