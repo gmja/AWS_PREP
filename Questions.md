@@ -29,3 +29,11 @@ have nothing to do with the lifetime of an instance and have no effect here.
 ## ANSWER B&C
 ![](https://user-images.githubusercontent.com/26511983/71786219-a10d6700-2fce-11ea-8279-4bce98d9956e.png)
 
+![](https://user-images.githubusercontent.com/26511983/71786255-11b48380-2fcf-11ea-9aa0-343a3c23281a.png)
+
+![](https://user-images.githubusercontent.com/26511983/71786269-3577c980-2fcf-11ea-9bd3-a49f070629a3.png)
+
+![](https://user-images.githubusercontent.com/26511983/71786317-c2228780-2fcf-11ea-978d-b7b01aadc4d6.png)
+
+![](https://user-images.githubusercontent.com/26511983/71786339-00b84200-2fd0-11ea-80a5-78599b46026d.png)
+
