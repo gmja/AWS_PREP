@@ -1,3 +1,17 @@
+## MariaDB has a page size of 16 KB. To write 200 MB (204,800 KB) of data every second, it would need 12,800 IOPS. Oracle, PostgreSQL, or Microsoft SQL Server, which all use an 8 KB page size, would need 25,600 IOPS to achieve the same throughput
+## MariaDB - 16KB page size - IOPS and other DBs - 8 KB
+
+## General-purpose SSD storage allocates 3 IOPS per GB, up to 10,000 IOPS. Therefore, to get 600 IOPS, you'd need to allocate 200 GB.
+## ( 3 IOPS/GB for GP2)
+
+## When you provision IOPS using IO1 storage, you must do so in a ratio no greater than 50 IOPS for 1 GB. Allocating 240 GB of storage would give you 12,000 IOPS ( 50 IOPS/GB for IO1)
+
+## RCU - 1 SC /4KB  - 2 RCU EC - 4KB
+
+## WCU - 1 per 1 KB
+
+## Elastic Beanstalk takes care of the ongoing underlying deployment details for you, allowing you to focus exclusively on your code.
+
 ![](https://user-images.githubusercontent.com/26511983/71770010-6da6db80-2eed-11ea-93b6-3426316b0e9c.png)
 
 ![](https://user-images.githubusercontent.com/26511983/71772511-c5573e00-2f11-11ea-8522-cac79951048e.png)
