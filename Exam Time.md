@@ -2,6 +2,12 @@
 ### AWSServiceRoleForSupport 
 ### AWSServiceRoleForTrustedAdvisor
 
+## Use access keys to make programmatic calls to AWS from the AWS CLI, Tools for PowerShell, the AWS SDKs, or direct AWS API calls. You can have a maximum of two access keys (active or inactive) at a time. Max 2
+
+## CloudFront key pairs - You use key pairs in Amazon CloudFront to create signed URLs. 
+
+## X.509 certificate - You use X.509 certificates to make secure SOAP-protocol requests to some AWS services Max 2
+
 ## MariaDB has a page size of 16 KB. To write 200 MB (204,800 KB) of data every second, it would need 12,800 IOPS. Oracle, PostgreSQL, or Microsoft SQL Server, which all use an 8 KB page size, would need 25,600 IOPS to achieve the same throughput
 ## MariaDB - 16KB page size - IOPS and other DBs - 8 KB
 
