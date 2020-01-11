@@ -1,3 +1,7 @@
+## When you create a new AWS account, this role is automatically created and configured for you. Service-Linked Roles for AWS Support
+### AWSServiceRoleForSupport 
+### AWSServiceRoleForTrustedAdvisor
+
 ## MariaDB has a page size of 16 KB. To write 200 MB (204,800 KB) of data every second, it would need 12,800 IOPS. Oracle, PostgreSQL, or Microsoft SQL Server, which all use an 8 KB page size, would need 25,600 IOPS to achieve the same throughput
 ## MariaDB - 16KB page size - IOPS and other DBs - 8 KB
 
