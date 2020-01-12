@@ -118,3 +118,10 @@
 ## HDD IOPS n/A
 ![](https://user-images.githubusercontent.com/26511983/71785894-95b83c80-2fca-11ea-831a-e414de9ff489.png)
 
+![](https://user-images.githubusercontent.com/26511983/72213476-43d55200-34b5-11ea-9f97-edabfef4cb31.png)
+
+## Incremental snapshots.. You do not have to worry about deleting snapshots
+
+![](https://user-images.githubusercontent.com/26511983/72213494-a0387180-34b5-11ea-9f3f-7a74f13ba7bf.png)
+
+![](https://user-images.githubusercontent.com/26511983/72213502-b5150500-34b5-11ea-9b3a-f806eb880e2b.png)
