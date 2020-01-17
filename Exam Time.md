@@ -163,6 +163,8 @@ https://www.youtube.com/watch?v=l9yg2mPvEFg
 ![](https://user-images.githubusercontent.com/26511983/72646996-10734700-393d-11ea-9974-fa7719d284cd.png)
 
 
+http://knowledgehills.com/aws/my-day-at-aws-csaa-exam.htm
+
 ###  EBS
 ### If my App needs large sequential I/O what to use?
 Answer: use Throughput Optimized HDD (st1).
