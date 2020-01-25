@@ -1,3 +1,10 @@
+## Amazon Glacier standard retrievals typically retrieval within 3 – 5 hours  
+## Amazon Glacier bulk retrievals: retrievals typically complete within 5 – 12 hours  
+
+https://aws.amazon.com/premiumsupport/knowledge-center/bucket-policy-encryption-s3/
+
+
+
 ## When you create a new AWS account, this role is automatically created and configured for you. Service-Linked Roles for AWS Support
 ### AWSServiceRoleForSupport 
 ### AWSServiceRoleForTrustedAdvisor
