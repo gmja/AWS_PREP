@@ -1,3 +1,7 @@
+## An internet gateway serves two purposes: 
+### 1. provide a target in your VPC route tables for internet-routable traffic, 
+### 2. perform network address translation (NAT) for instances that have been assigned public IPv4 addresses.
+
 ## Amazon Glacier standard retrievals typically retrieval within 3 – 5 hours  
 ## Amazon Glacier bulk retrievals: retrievals typically complete within 5 – 12 hours  
 
