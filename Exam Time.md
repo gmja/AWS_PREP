@@ -33,6 +33,10 @@ https://aws.amazon.com/premiumsupport/knowledge-center/bucket-policy-encryption-
 
 ## Elastic Beanstalk takes care of the ongoing underlying deployment details for you, allowing you to focus exclusively on your code.
 
+## ONly one pulbic IP 
+![](https://user-images.githubusercontent.com/26511983/73138739-d0dae800-402b-11ea-8dbf-51e271f021cd.png)
+
+
 ## EC2 Instance type can be changed after stopping instance
 ![](https://user-images.githubusercontent.com/26511983/71789572-741e7b80-2ff1-11ea-8bbb-433fd58b418b.png)
 
