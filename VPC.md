@@ -40,6 +40,22 @@
 
 ![](https://user-images.githubusercontent.com/26511983/73142230-0abee500-4052-11ea-93e9-ee4b97d24a38.png)
 
+![](https://user-images.githubusercontent.com/26511983/73143302-2e882800-405e-11ea-81d8-f6d8767edf90.png)
+
+![](https://user-images.githubusercontent.com/26511983/73143376-e1f11c80-405e-11ea-9e8f-e82a1a5db95b.png)
+
+![](https://user-images.githubusercontent.com/26511983/73143392-051bcc00-405f-11ea-8e6e-1545daacd3f1.png)
+
+![](https://user-images.githubusercontent.com/26511983/73143416-2aa8d580-405f-11ea-9d03-9775ded1a6e4.png)
+
+![](https://user-images.githubusercontent.com/26511983/73143745-73628d80-4063-11ea-847e-d9f13839f294.png)
+
+![](https://user-images.githubusercontent.com/26511983/73143755-883f2100-4063-11ea-807b-95d1011a4b3f.png)
+
+## Transit Gateway is restricted to Region only
+
+![](https://user-images.githubusercontent.com/26511983/73143767-a1e06880-4063-11ea-8367-a04cb527454b.png)
+
 
 ![](https://user-images.githubusercontent.com/26511983/70856789-aaf8ea00-1ea8-11ea-8a4d-d26e81c18016.png)
 
