@@ -1,3 +1,5 @@
+![](https://user-images.githubusercontent.com/26511983/73600539-ffb6f980-4516-11ea-90d2-5c9fc3bae319.png)
+
 ## An internet gateway serves two purposes: 
 ### 1. provide a target in your VPC route tables for internet-routable traffic, 
 ### 2. perform network address translation (NAT) for instances that have been assigned public IPv4 addresses.
