@@ -9,6 +9,10 @@
 
 ![](https://user-images.githubusercontent.com/26511983/74088644-25d02280-4a5e-11ea-8ebd-6344a05cb6cc.png)
 
+![](https://user-images.githubusercontent.com/26511983/74088683-721b6280-4a5e-11ea-9a47-34e5eef8fde1.png)
+
+### API Gateway resource policies are attached to resources. 
+
 ### IAM roles and policies can be used for controlling who can create and manage your APIs as well as who can invoke them.  
 
 ### Endpoint Policies for Interface VPC Endpoints allow you to attach IAM resource policies to interface VPC endpoints to improve the security of your private APIs.  
