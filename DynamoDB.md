@@ -1,3 +1,6 @@
+## it is cheaper to save items under 20Kb in DynamoDb, but when the request size becomes larger, the DynamoDB price grows linearly, whereas growth costs for S3 is less significant.
+
+
 ![](https://user-images.githubusercontent.com/26511983/74089066-c0cafb80-4a62-11ea-8107-8a65b8fe13f7.png)
 
 ![](https://user-images.githubusercontent.com/26511983/70857081-1abda380-1eae-11ea-9f3b-6b104454beba.png)
