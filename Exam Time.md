@@ -1,3 +1,5 @@
+![](https://user-images.githubusercontent.com/26511983/74090030-ab5acf00-4a6c-11ea-8f19-7a97812312e7.png)
+
 ![](https://user-images.githubusercontent.com/26511983/73600539-ffb6f980-4516-11ea-90d2-5c9fc3bae319.png)
 
 ## An internet gateway serves two purposes: 
