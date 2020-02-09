@@ -1,5 +1,23 @@
 https://www.youtube.com/watch?v=namCH3nzU8k
 
+## Objects expire from the cache after 24 hours by default.
+
+## Origins
+ 
+### Amazon S3 bucket: myawsbucket.s3.amazonaws.com
+### Amazon EC2 instance: ec2–203–0–113–25.compute-1.amazonaws.com
+### Elastic Load Balancing Load Balancer: my-load-balancer-1234567890.us-west-2 .elb.amazonaws.com
+### Website URL: mywebserver.mycompanydomain.com
+
+## Access Logs
+### Amazon CloudFront can create log files that contain detailed information about every user request that Amazon CloudFront receives. Access logs are available for both web and RTMP distributions. When you enable logging for your distribution, you specify the Amazon S3 bucket in which you want Amazon CloudFront to store log files.
+
+## Lambda@Edge with CloudFront
+You can write AWS Lambda functions that inspect cookies and rewrite URLs so that users see different versions of a site for A/B testing.
+You can use an AWS Lambda function to generate HTTP responses when Amazon CloudFront viewer request events or origin request events occur.
+An AWS Lambda function can inspect headers or authorization tokens and insert the applicable header to control access to your content before Amazon CloudFront for- wards a request to the origin.
+An AWS Lambda function can add, drop, and modify headers and can rewrite URL paths so that Amazon CloudFront returns different objects.
+
 ![](https://user-images.githubusercontent.com/26511983/72228843-ddf9d080-356f-11ea-9d51-56205aabff02.png)
 
 ![](https://user-images.githubusercontent.com/26511983/72228890-2ca76a80-3570-11ea-9510-70c05edb7028.png)
