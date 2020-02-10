@@ -1,18 +1,18 @@
-## Cross-zone load balancing reduces the need to maintain equivalent numbers of instances in each enabled Availability Zone, and improves your application's ability to handle the loss of one or more instances. However, we still recommend that you maintain approximately equivalent numbers of instances in each enabled Availability Zone for higher fault tolerance.
+### Cross-zone load balancing reduces the need to maintain equivalent numbers of instances in each enabled Availability Zone, and improves your application's ability to handle the loss of one or more instances. However, we still recommend that you maintain approximately equivalent numbers of instances in each enabled Availability Zone for higher fault tolerance.
 
 ![](https://user-images.githubusercontent.com/26511983/74153243-ca28a500-4bd5-11ea-9d28-ff6f638e2035.png)
 
-## Storage optimized instances are designed for workloads that require high, sequential read and write access (IOPS)
+### Storage optimized instances are designed for workloads that require high, sequential read and write access (IOPS)
 
-## Memory optimized instances are designed to deliver fast performance for workloads that process large data sets in memory
+### Memory optimized instances are designed to deliver fast performance for workloads that process large data sets in memory
 
-## Compute optimized instances are for compute-bound applications high-performance processors, batch processing workloads and media transcoding
+### Compute optimized instances are for compute-bound applications high-performance processors, batch processing workloads and media transcoding
 
-## General purpose instances provide a balance of compute, memory, and networking resources
+### General purpose instances provide a balance of compute, memory, and networking resources
 
-## To prevent your Lambda function from running indefinitely, you specify a timeout. When the specified timeout is reached, AWS Lambda terminates execution of your Lambda function. default timeout is 3 seconds and the maximum execution duration per request in AWS Lambda is 900 seconds, which is equivalent to 15 minutes.
+### To prevent your Lambda function from running indefinitely, you specify a timeout. When the specified timeout is reached, AWS Lambda terminates execution of your Lambda function. default timeout is 3 seconds and the maximum execution duration per request in AWS Lambda is 900 seconds, which is equivalent to 15 minutes.
 
-## the AWS Lambda limits the total concurrent executions across all functions within a given region to 1000, If that limit is exceeded, the function will be throttled but not terminated..
+### the AWS Lambda limits the total concurrent executions across all functions within a given region to 1000, If that limit is exceeded, the function will be throttled but not terminated..
 
 ### recursive code in your Lambda function does not directly result to an abrupt termination of the function execution. This is a scenario wherein the function automatically calls itself until some arbitrary criteria is met. This could lead to an unintended volume of function invocations and escalated costs, but not an abrupt termination because Lambda will throttle all invocations to the function.
 
