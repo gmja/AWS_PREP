@@ -12,7 +12,9 @@
 
 ## To prevent your Lambda function from running indefinitely, you specify a timeout. When the specified timeout is reached, AWS Lambda terminates execution of your Lambda function. default timeout is 3 seconds and the maximum execution duration per request in AWS Lambda is 900 seconds, which is equivalent to 15 minutes.
 
-## the AWS Lambda limits the total concurrent executions across all functions within a given region to 1000
+## the AWS Lambda limits the total concurrent executions across all functions within a given region to 1000, If that limit is exceeded, the function will be throttled but not terminated..
+
+### recursive code in your Lambda function does not directly result to an abrupt termination of the function execution. This is a scenario wherein the function automatically calls itself until some arbitrary criteria is met. This could lead to an unintended volume of function invocations and escalated costs, but not an abrupt termination because Lambda will throttle all invocations to the function.
 
 ![](https://user-images.githubusercontent.com/26511983/71539011-fbd1ff00-28fa-11ea-9aec-bc59ae4cedf3.png)
 
