@@ -22,6 +22,39 @@
 
 ## 
 
+### To enable the cross-region replication feature in S3, the following items should be met:
+
+### The source and destination buckets must have versioning enabled.
+### The source and destination buckets must be in different AWS Regions.
+### Amazon S3 must have permissions to replicate objects from that source bucket to the destination bucket on your behalf.
+
+
+##
+
+![](https://user-images.githubusercontent.com/26511983/74157741-69ea3100-4bde-11ea-99c7-2befecec82ca.png)
+
+##
+
+#### An Elastic IP address doesn’t incur charges as long as the following conditions are true:
+
+-The Elastic IP address is associated with an Amazon EC2 instance.
+-The instance associated with the Elastic IP address is running.
+-The instance has only one Elastic IP address attached to it.
+
+## (IAM) database authentication
+
+### You can authenticate to your DB instance using AWS Identity and Access Management (IAM) database authentication. IAM database authentication works with MySQL and PostgreSQL. With this authentication method, you don't need to use a password when you connect to a DB instance. Instead, you use an authentication token.
+
+### You can also still use standard database authentication.
+
+### using the --ssl-ca parameter can provide SSL connection to your database
+
+## SCP OU
+
+![](https://user-images.githubusercontent.com/26511983/74158167-35c34000-4bdf-11ea-999f-789c9f9ce1d6.png)
+
+
+##
 ![](https://user-images.githubusercontent.com/26511983/71539011-fbd1ff00-28fa-11ea-9aec-bc59ae4cedf3.png)
 
 # EC2
