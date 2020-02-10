@@ -54,7 +54,59 @@
 ![](https://user-images.githubusercontent.com/26511983/74158167-35c34000-4bdf-11ea-999f-789c9f9ce1d6.png)
 
 
+## CloudFront
+
+### The "Cache-Control" and "Expires" headers control how long objects stay in the cache. The "Cache-Control max-age" directive lets you specify how long (in seconds) you want an object to remain in the cache before CloudFront gets the object again from the origin server.
+
+## 
+
+![](https://user-images.githubusercontent.com/26511983/74158480-c4d05800-4bdf-11ea-999e-1f7b62a4eb5d.png)
+
+## Elastic Beanstalk vs ECS
+### Elastic Beanstalk supports the deployment of web applications from Docker containers. 
+### "automatically" handle all the tasks such as balancing load, auto-scaling, monitoring, and placing your containers across your cluster. You will have to manually configure these things if you wish to use ECS.
+
+![](https://user-images.githubusercontent.com/26511983/74158767-445e2700-4be0-11ea-8419-438ed75e590a.png)
+
+![](https://user-images.githubusercontent.com/26511983/74158829-60fa5f00-4be0-11ea-8347-40ccb981e555.png)
+
+## S3 multi-upload 
+### when your object size reaches 100 MB, you should consider using multipart uploads instead of uploading the object in a single operation
+![](https://user-images.githubusercontent.com/26511983/74158897-7bccd380-4be0-11ea-953e-5726e6583e03.png)
 ##
+
+### SSH -22 RDP - 3389 port
+
+## Multi-AZ DB
+
+### When you provision a Multi-AZ DB Instance, Amazon RDS automatically creates a primary DB Instance and synchronously replicates the data to a standby instance in a different Availability Zone (AZ). 
+
+### Increased database availability in the case of system upgrades like OS patching or DB Instance scaling.
+
+### It makes the database fault-tolerant to an Availability Zone failure
+
+## Spot Instance
+
+### If your Spot instance is terminated or stopped by Amazon EC2 in the first instance hour, you will not be charged for that usage. However, if you terminate the instance yourself, you will be charged to the nearest second.
+
+### If the Spot instance is terminated or stopped by Amazon EC2 in any subsequent hour, you will be charged for your usage to the nearest second. If you are running on Windows and you terminate the instance yourself, you will be charged for an entire hour.
+
+
+## CloudFront Versioning vs Invalidation
+
+### If you want to update your files frequently, AWS recommends that you primarily use file versioning for the following reasons:
+
+### -Versioning enables you to control which file a request returns even when the user has a version cached either locally or behind a corporate caching proxy. If you invalidate the file, the user might continue to see the old version until it expires from those caches.
+### -CloudFront access logs include the names of your files, so versioning makes it easier to analyze the results of file changes.
+### -Versioning provides a way to serve different versions of files to different users.
+### -Versioning simplifies rolling forward and back between file revisions.
+### -Versioning is less expensive.
+
+## CodeCommit vs Code Deploy
+
+![](https://user-images.githubusercontent.com/26511983/74159837-0c57e380-4be2-11ea-8724-38ad886090fb.png)
+
+## 
 ![](https://user-images.githubusercontent.com/26511983/71539011-fbd1ff00-28fa-11ea-9aec-bc59ae4cedf3.png)
 
 # EC2
