@@ -1,3 +1,34 @@
+## EBS volume is only available in the Availability Zone it was created in and cannot be attached directly to other Availability Zones
+
+## insufficient capacity error placement group
+
+### If you receive a capacity error when launching an instance in a placement group that already has running instances, stop and start all of the instances in the placement group, and try the launch again.
+
+## Reserved Instance
+
+### You can create a snapshot of the instance to save its data and then sell the instance to the Reserved Instance Marketplace.
+
+### The Reserved Instance Marketplace is a platform that supports the sale of third-party and AWS customers' unused Standard Reserved Instances
+
+## VPC peering
+### You can create a VPC peering connection between your own VPCs, with a VPC in another AWS account, or with a VPC in a different AWS Region.
+
+## Kinesis
+
+### shard split and shard merge. In a shard split, you divide a single shard into two shards. In a shard merge, you combine two shards into a single shard. Resharding is always pairwise in the sense that you cannot split into more than two shards in a single operation, and you cannot merge more than two shards in a single operation. UpdateShardCount API & MergeShard API 
+
+### you are charged on a per-shard basis, splitting increases the cost of your stream. Similarly, merging reduces the number of shards in your stream and therefore decreases the data capacity—and cost—of the stream
+
+![](https://user-images.githubusercontent.com/26511983/74245468-a97d4f80-4ca8-11ea-9c2f-54d1876b0080.png)
+
+##
+
+### Trusted Advisor 
+
+### Trusted Advisor is an online tool that provides you real-time guidance to help you provision your resources following AWS best practices. It only provides you alerts on areas where you do not adhere to best practices and tells you how to improve them. It does not assist in maintaining governance over your AWS accounts.
+
+##
+
 ### Cross-zone load balancing reduces the need to maintain equivalent numbers of instances in each enabled Availability Zone, and improves your application's ability to handle the loss of one or more instances. However, we still recommend that you maintain approximately equivalent numbers of instances in each enabled Availability Zone for higher fault tolerance.
 
 ## 
