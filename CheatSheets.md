@@ -1,3 +1,14 @@
+## RDS Storage Auto Scaling continuously monitors actual storage consumption, and scales capacity up automatically when actual utilization approaches provisioned storage capacity. 
+
+## SQS - Delivery Delay - Receive Message Wait Time - Visibility Timeout  256KB size and 4 days retention (up to 14 days)
+
+## SQS - Max Receives > Dead Letter Queue 
+
+https://aws.amazon.com/blogs/aws/amazon-sqs-new-dead-letter-queue/
+
+## Dead Letter Queue Lambda
+![](https://user-images.githubusercontent.com/26511983/74556396-932ef800-4f23-11ea-86a9-e5b08ab11b03.png)
+
 ## You can use geo restriction, also known as geo blocking, to prevent users in specific geographic locations from accessing content that you're distributing through a CloudFront web distribution
 
 ## CloudFront uses Geo-restriction not Geo Location
