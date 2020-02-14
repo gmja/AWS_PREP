@@ -1,3 +1,39 @@
+![](https://user-images.githubusercontent.com/26511983/74502426-18c68f80-4eb3-11ea-8c42-6f8e39a78dba.png)
+
+![](https://user-images.githubusercontent.com/26511983/74502383-f2a0ef80-4eb2-11ea-9092-7534779e89b7.png)
+
+![](https://user-images.githubusercontent.com/26511983/74502318-bbcad980-4eb2-11ea-842a-f80f52bcc633.png)
+
+## CloudWatch Logs Insights enables you to interactively search and analyze your log data in Amazon CloudWatch Logs. You can perform queries to help you quickly and effectively respond to operational issues.
+
+## DynamoDB auto scaling uses the AWS Application Auto Scaling service to dynamically adjust provisioned throughput capacity on your behalf, in response to actual traffic patterns. 
+
+### This enables a table or a global secondary index to increase its provisioned read and write capacity to handle sudden increases in traffic, without throttling. When the workload decreases, Application Auto Scaling decreases the throughput 
+
+![](https://user-images.githubusercontent.com/26511983/74502174-4101be80-4eb2-11ea-8715-686f04171046.png)
+
+## you can't directly connect to the standby instance in multi-AZ
+
+![](https://user-images.githubusercontent.com/26511983/74502017-a43f2100-4eb1-11ea-8284-ca8e31f47c9c.png)
+
+## 1. S3 Select
+
+### Amazon S3 Select is designed to help analyze and process data within an object in Amazon S3 buckets, faster and cheaper. It works by providing the ability to retrieve a subset of data from an object in Amazon S3 using simple SQL expressions.
+
+## 2. Amazon Athena
+
+### Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL expressions. Athena is serverless, so there is no infrastructure to manage, and you pay only for the queries you run
+
+## 3. Amazon Redshift Spectrum
+
+### Amazon Redshift also includes Redshift Spectrum, allowing you to directly run SQL queries against exabytes of unstructured data in Amazon S3.
+
+## AWS Step Functions provides serverless orchestration for modern applications.
+
+## Galcier to delete
+
+![](https://user-images.githubusercontent.com/26511983/74501613-55dd5280-4eb0-11ea-8906-443510ff2068.png)
+
 ## EBS volume is only available in the Availability Zone it was created in and cannot be attached directly to other Availability Zones
 
 ## insufficient capacity error placement group
