@@ -1,3 +1,25 @@
+## You can use geo restriction, also known as geo blocking, to prevent users in specific geographic locations from accessing content that you're distributing through a CloudFront web distribution
+
+## CloudFront uses Geo-restriction not Geo Location
+
+## Amazon EC2 instances can access your file system EFS across AZs, regions, and VPCs, while on-premises servers can access using AWS Direct Connect or AWS VPN
+
+## S3 maximum file size is 5TB, the maximum size for a single PUT operation is 5GB - this means you will be unable to upload an 8GB file with a single operation, and you need to use multipart upload. AWS recommends multipart upload for any files larger than 100MB.
+
+## AWS Certificate Manager is a service that lets you easily provision, manage, and deploy public and private Secure Sockets Layer/Transport Layer Security (SSL/TLS) certificates
+
+## AWS Secrets Manager - database credentials, API keys, and other secrets throughout their lifecycle
+
+## largest item size that a DynamoDB database can store? - 400KB
+
+## 99.99 SLA - less than 5 minutes per month
+
+## VPN vs Direct Connect
+
+### VPN uses public internet and uses encryption . $0.05 per VPN Connection Hour  $0.09 per GB data transfer out
+
+### DX uses dedicated network and not encrypted.  $0.2 to $0.3 per GB multiple VPCs
+
 ![](https://user-images.githubusercontent.com/26511983/74502426-18c68f80-4eb3-11ea-8c42-6f8e39a78dba.png)
 
 ![](https://user-images.githubusercontent.com/26511983/74502383-f2a0ef80-4eb2-11ea-9092-7534779e89b7.png)
