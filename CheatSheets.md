@@ -1,3 +1,26 @@
+![](https://user-images.githubusercontent.com/26511983/74577746-63e5ae80-4f56-11ea-9173-48cf4fe8672f.png)
+
+## Compute Savings Plans provide the most flexibility and help to reduce your costs by up to 66% (just like Convertible RIs). The plans automatically apply to any EC2 instance regardless of region, instance family, operating system
+
+## ElastiCache automatic failover for Redis detects and replaces a primary node. These cases include certain types of planned maintenance and the unlikely event of a primary node or Availability Zone failure.
+
+### This replacement results in some downtime for the cluster. If you have Multi-AZ with automatic failover enabled on the cluster, the downtime is minimized. In this case, the role of primary node fails over to one of the read replicas.
+
+## Aurora endpoints
+
+### Reader Endpoint - The reader endpoint load-balances connections to available Aurora Replicas in an Aurora DB cluster.
+
+### Cluster Endpoint - The cluster endpoint connects to the primary instance of the cluster
+
+
+
+
+## OAI - Cloudfront user who has access to read files in the bucket.. OAI can not be set for a bucket which is setup as a website..
+
+## CloudFront Signed URLs and S3 Signed URLS
+
+![](https://user-images.githubusercontent.com/26511983/74573932-b4094480-4f47-11ea-9fde-0eab6fbc9cee.png)
+
 ## RDS Storage Auto Scaling continuously monitors actual storage consumption, and scales capacity up automatically when actual utilization approaches provisioned storage capacity. 
 
 ## SQS - Delivery Delay - Receive Message Wait Time - Visibility Timeout  256KB size and 4 days retention (up to 14 days)
