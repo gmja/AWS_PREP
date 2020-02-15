@@ -1,5 +1,29 @@
+![](https://user-images.githubusercontent.com/26511983/74592362-131d9680-4fe6-11ea-940a-3c36db6ddf59.png)
 
-## Automatically Add Aurora by 10GB
+## Cloudwatch 2hours in future and 14 days in past
+![](https://user-images.githubusercontent.com/26511983/74592185-70b0e380-4fe4-11ea-976e-b5f20eb0a9ed.png)
+
+![](https://user-images.githubusercontent.com/26511983/74592138-ebc5ca00-4fe3-11ea-88b1-60b74a8205db.png)
+
+![](https://user-images.githubusercontent.com/26511983/74592064-38f56c00-4fe3-11ea-8538-75c928d81ead.png)
+
+![](https://user-images.githubusercontent.com/26511983/74591976-6db4f380-4fe2-11ea-9b5c-68bed9855aa7.png)
+
+## CloudWatch - Monitors utilization of AWS resources
+
+## VPC Flowlogs - monitor in and out IP traffic
+
+![](https://user-images.githubusercontent.com/26511983/74591930-0f881080-4fe2-11ea-8eb6-a428c81ac411.png)
+
+![](https://user-images.githubusercontent.com/26511983/74591856-2d08aa80-4fe1-11ea-8e87-827d81d3a110.png)
+
+##  Weekly backup of EC2 Amazon Data LifeCycle Manager 
+
+## EFS backup - AWS Backup
+
+## S3 inventory - Object and metadata
+
+## Automatically Adds 10GB by Aurora  
 ![](https://user-images.githubusercontent.com/26511983/74581926-06b02400-4f7b-11ea-87b0-c584cfb5a683.png)
 
 ![](https://user-images.githubusercontent.com/26511983/74581919-ebddaf80-4f7a-11ea-9bc0-4c43afae3071.png)
