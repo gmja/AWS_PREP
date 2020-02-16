@@ -1,3 +1,7 @@
+## if you create a VPC with CIDR block 10.0.0.0/24, it supports 256 IP addresses. You can break this CIDR block into two subnets, each supporting 128 IP addresses. One subnet uses CIDR block 10.0.0.0/25 (for addresses 10.0.0.0 - 10.0.0.127) and the other uses CIDR block 10.0.0.128/25 (for addresses 10.0.0.128 - 10.0.0.255).
+
+![](https://user-images.githubusercontent.com/26511983/74611142-e4bfba00-50be-11ea-8237-c689eddf7b7b.png)
+
 ![](https://user-images.githubusercontent.com/26511983/74610961-7d553a80-50bd-11ea-92f5-876327830792.png)
 
 ## S3 with static site can't do https. It has to be enabled with cloudfront with S3 bucket as origin
