@@ -1,3 +1,5 @@
+![](https://user-images.githubusercontent.com/26511983/74612529-b694a700-50cb-11ea-8d75-22c33834ac72.png)
+
 ## if you create a VPC with CIDR block 10.0.0.0/24, it supports 256 IP addresses. You can break this CIDR block into two subnets, each supporting 128 IP addresses. One subnet uses CIDR block 10.0.0.0/25 (for addresses 10.0.0.0 - 10.0.0.127) and the other uses CIDR block 10.0.0.128/25 (for addresses 10.0.0.128 - 10.0.0.255).
 
 ![](https://user-images.githubusercontent.com/26511983/74611142-e4bfba00-50be-11ea-8237-c689eddf7b7b.png)
